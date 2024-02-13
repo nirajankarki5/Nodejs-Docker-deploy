@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding: 20px 10px;
+  text-align: center;
+  background-color: #60b6f4;
+  margin-bottom: 50px;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}

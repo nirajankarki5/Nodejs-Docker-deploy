@@ -2,6 +2,8 @@
 
 https://betterstack.com/community/guides/scaling-nodejs/dockerize-nodejs/
 
+https://www.youtube.com/watch?v=JDUB9ZAjaJI&ab_channel=TheNerdyCanuck
+
 ## Steps
 
 ### Building the Docker image
